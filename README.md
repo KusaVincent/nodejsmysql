@@ -2,6 +2,8 @@
 
 npm install mysql(package for connecting to mysql) express(creating routes) nodemon(restart server after every commit)
 
+create connection to database
+
 create db
 
 create table inside db
